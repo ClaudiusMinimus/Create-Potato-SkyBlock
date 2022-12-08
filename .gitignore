@@ -64,7 +64,7 @@ server/*.zip
 # Stop ignoring these folders
 !minecraft/config/drippyloadingscreen/
 !minecraft/config/fancymenu/
-!minecraft/config/emerald_tools
+# !minecraft/config/emerald_tools
 !minecraft/patchouli_books/
 !minecraft/config/yosbr/
 
