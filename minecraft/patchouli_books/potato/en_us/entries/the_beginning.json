@@ -1,0 +1,24 @@
+{
+    "name": "Early Game",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:getting_started",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "At this point Create on a Potato PC: SkyBlock Edition plays a lot like a vanilla game, $(o)though with some great tools and weapons$(). Therefore, it would be wise to find a village as soon as possible for getting resources and villager trades going. I will link some good videos in the $(l:videos_early_game)Videos chapter$(/l) to help get started."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "emerald_tools:copper_treeaxe",
+            "title": "Copper Treeaxe",
+            "text": "Make a Copper Treeaxe as soon as you can! The Copper Treeaxe wil attempt to bring down the entire tree when the lowest block is broken."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "emerald_tools:copper_hammer",
+            "title": "Tools",
+            "text": "Once you get an iron or copper pickaxe try to get the full set of copper armor, weapon, and tools. Copper is easy to get and can be repaired in a crafting grid with ingots. Go to the $(l:https://www.curseforge.com/minecraft/mc-mods/easy-emerald-tools)Emerald Tools page$(/l) to see the mod content, material durability, and much more! Also try searching REI with \"@em\""
+        }
+    ]
+}
