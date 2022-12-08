@@ -435,7 +435,7 @@ customization {
   y = -12
   scale = 1.0
   alignment = left
-  value = Create on a Potato PC - SkyBlock Edition 1.19.2-0.1.3
+  value = Create on a Potato PC - SkyBlock Edition 1.19.2-0.1.4
 }
 
 customization {
