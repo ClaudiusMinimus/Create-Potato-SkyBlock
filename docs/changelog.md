@@ -1,0 +1,70 @@
+## Create on a Potato PC: SkyBlock Edition 1.19.2-0.1.4
+Dec. 10, 2022
+- Mods Added: 
+  - appleskin-fabric-mc1.19-2.4.1.jar
+  - architectury-6.3.56-fabric.jar
+  - balm-fabric-4.5.2+0.jar
+  - bobby-4.0.1.jar
+  - bwncr-fabric-1.19.2-3.14.1.jar
+  - clienttweaks-fabric-1.19-8.1.0.jar
+  - cloth-config-8.2.88-fabric.jar
+  - Clumps-fabric-1.19.2-9.0.0+11.jar
+  - Controlling-fabric-1.19.2-10.0+7.jar
+  - craftingtweaks-fabric-1.19-15.1.0.jar
+  - create-fabric-0.5.0g-796+1.19.2.jar
+  - drippyloadingscreen_fabric_1.6.6_MC_1.19-1.19.2.jar
+  - easiervillagertrading-1.19.1-fabric0.58.5-1.5.4.jar
+  - EmeraldTools-Fabric-1.19.2-1.4.38.jar
+  - entityculling-fabric-1.5.2-mc1.19.jar
+  - EssentialGUI-1.8.2+1.19.2.jar
+  - fabric-api-0.68.0+1.19.2.jar
+  - fabric-language-kotlin-1.8.7+kotlin.1.7.22.jar
+  - fancymenu_fabric_2.13.0_MC_1.19-1.19.2.jar
+  - ftb-library-fabric-1902.3.10-build.162.jar
+  - ftb-quests-fabric-1902.4.3-build.140.jar
+  - ftb-teams-fabric-1902.2.10-build.76.jar
+  - ftbbackups2-fabric-1.19.2-1.0.17.jar
+  - here-be-no-dragons-1.0.0.jar
+  - indium-1.0.9+mc1.19.2.jar
+  - IngredientExtensionAPI-fabric-1.19.2-3.0.6.jar
+  - InventorySorter-1.8.10-1.19.jar
+  - iris-mc1.19.2-1.4.5.jar
+  - item-filters-fabric-1902.2.9-build.46.jar
+  - kibe-1.9.10-BETA+1.19.jar
+  - konkrete_fabric_1.6.0_MC_1.19.1-1.19.2.jar
+  - kubejs-fabric-1902.6.0-build.128.jar
+  - lambdynamiclights-2.1.2+1.19.jar
+  - malilib-fabric-1.19.2-0.13.0.jar
+  - minihud-fabric-1.19.2-0.23.3.jar
+  - modmenu-4.1.2.jar
+  - MouseTweaks-fabric-mc1.19-2.22.jar
+  - NoChatReports-FABRIC-1.19.2-v1.13.12.jar
+  - Patchouli-1.19.2-77-FABRIC.jar
+  - polylib-fabric-1900.0.2-build.42.jar
+  - polymorph-fabric-0.46.1+1.19.2.jar
+  - reeses_sodium_options-1.4.9+mc1.19.2-build.67.jar
+  - rer-2.6.0.jar
+  - rhino-fabric-1902.2.2-build.264.jar
+  - RoughlyEnoughItems-9.1.574.jar
+  - shulkerboxtooltip-fabric-3.2.2+1.19.2.jar
+  - sodium-extra-0.4.14+mc1.19.2-build.80.jar
+  - sodium-fabric-mc1.19.2-0.4.4+build.18.jar
+  - spark-1.9.45-fabric.jar
+  - starlight-1.1.1+fabric.ae22326.jar
+  - toms_storage_fabric-1.19-1.4.3.jar
+  - trinkets-3.4.1.jar
+  - tweakeroo-fabric-1.19.2-0.14.3.jar
+  - Xaeros_Minimap_22.16.3_Fabric_1.19.1.jar
+  - XaerosWorldMap_1.28.4_Fabric_1.19.1.jar
+  - yosbr-0.1.1.jar
+- Mods Updated: 
+- Mods Removed: 
+- Other Changes: 
+  - Fabric Loader 0.14.11
+  - Imported and tweaked from Create on a Potato PC: Fabric Edition
+    - Quests
+    - Patchouli Book
+    - Kubejs recipes
+    - Fancy Menu artwork and layouts (if pack proves popular, then will be updated)
+    - Drippy artwork and layouts (if pack proves popular, then will be updated)
+  - Added kubejs recipes for Create blocks not generated with OneBlock
